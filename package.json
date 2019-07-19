@@ -2,7 +2,7 @@
   "name": "VGSCollectCardIO",
   "version": "0.0.1",
   "private": true,
-  "authors": "VGS",
+  "author": "VGS",
   "license": "MIT",
   "homepage": "https://varygoodsecurity.com",
   "description": "VGS Collect + Card.io",
