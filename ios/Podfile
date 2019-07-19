@@ -30,20 +30,6 @@ target 'VGSCollectCardIO' do
 
   pod 'RNAwesomeCardIO', :path => '../node_modules/react-native-awesome-card-io'
 
-  target 'VGSCollectCardIOTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
   use_native_modules!
 end
 
-target 'VGSCollectCardIO-tvOS' do
-  # Pods for VGSCollectCardIO-tvOS
-
-  target 'VGSCollectCardIO-tvOSTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-end
