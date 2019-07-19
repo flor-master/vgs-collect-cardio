@@ -24,5 +24,11 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "files": [
+    "android",
+    "ios",
+    "index.js",
+    "VGSCollectCardIO.podspec"
+  ]
 }
