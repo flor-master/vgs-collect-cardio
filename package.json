@@ -2,6 +2,10 @@
   "name": "VGSCollectCardIO",
   "version": "0.0.1",
   "private": true,
+  "authors": "VGS",
+  "license": "MIT",
+  "homepage": "https://varygoodsecurity.com",
+  "description": "VGS Collect + Card.io",
   "scripts": {
     "start": "react-native start",
     "test": "jest",
